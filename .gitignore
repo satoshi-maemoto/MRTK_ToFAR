@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/MRTK/**
+Assets/Samples/Mixed Reality Toolkit Examples/**
+Assets/TextMesh Pro/**
+Assets/TofAr/**
+Assets/TofAr.ThirdParty/**
+UserSettings/**
+.DS_Store
+a_BackUpThisFolder_ButDontShipItWithYourGame

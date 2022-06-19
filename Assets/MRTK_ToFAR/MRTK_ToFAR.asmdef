@@ -1,0 +1,23 @@
+{
+    "name": "MRTK_ToFAR",
+    "rootNamespace": "",
+    "references": [
+        "Microsoft.MixedReality.Toolkit",
+        "TofArAssembly",
+        "TofArTofAssembly",
+        "TofArHandAssembly"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
