@@ -15,11 +15,12 @@ Video: https://twitter.com/peugeot106s16/status/1538015779547136005
 
 ## Environment
 * Rear ToF camera integrated phones (Recommend iToF devices, LiDAR depth not enough to fine hand tracking)  
+https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_User_Manual_en.html#_list_of_sdk_compatible_devices
+
 * Unity 2020.3.x
 * ToF AR v1.0.0
 * MRTK v2.8.0
 * ARFoundation
-https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_User_Manual_en.html#_list_of_sdk_compatible_devices
 
 ## How to Build
 
