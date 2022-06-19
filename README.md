@@ -27,7 +27,7 @@ https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_User_Ma
 2. Open project with Unity Editor.
 3. Skip setup for MRTK.  
 ![skip_mrtk_setup](https://user-images.githubusercontent.com/530182/174471018-857cf705-c61f-4698-b33f-e87e7d6b28b7.png)
-5. Import fllowing 5 "ToF AR" unitypackage files.  
+5. Import following 5 "ToF AR" unitypackage files.  
 ![tofar_packages](https://user-images.githubusercontent.com/530182/174471031-f46b95df-6a1b-4ddc-b0e1-385468e82fea.png)
 7. Switch platform to Android or iOS in BuildSettings dialog.
 8. Build and deploy to device.
